@@ -1,39 +1,39 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
-#EXTINF:-1 tvg-chno="1" tvg-id="AajTak.in" tvg-name="Aaj Tak HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aaj%20Tak%20HD.png" group-title="India News - Hindi",Aaj Tak HD
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/in.xml.gz,https://i.mjh.nz/SamsungTVPlus/gb.xml.gz,https://i.mjh.nz/SamsungTVPlus/us.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTINF:-1 tvg-chno="1" tvg-id="IN3800001ZH" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20261026T044055SQUARE.png" group-title="India News - Hindi",Aaj Tak HD
 https://jmp2.uk/stvp-IN3800001ZH
-#EXTINF:-1 tvg-chno="2" tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" group-title="India News - Hindi",TV9 Bharatvarsh
+#EXTINF:-1 tvg-chno="2" tvg-id="IN3800003SV" tvg-name="TV9 Bharatvarsh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20261013T051816SQUARE.png" group-title="India News - Hindi",TV9 Bharatvarsh
 https://jmp2.uk/stvp-IN3800003SV
-#EXTINF:-1 tvg-chno="3" tvg-id="News18India.in" tvg-name="News18 India" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News18%20India.png" group-title="India News - Hindi",News18 India
+#EXTINF:-1 tvg-chno="3" tvg-id="INBD1300010WP" tvg-name="News18 India" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20261110T043354SQUARE.png" group-title="India News - Hindi",News18 India
 https://jmp2.uk/stvp-INBD1300010WP
-#EXTINF:-1 tvg-chno="4" tvg-id="NewsNation.in" tvg-name="News Nation" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation.png" group-title="India News - Hindi",News Nation
+#EXTINF:-1 tvg-chno="4" tvg-id="IN46000210J" tvg-name="News Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000210J_20260812T011001SQUARE.png" group-title="India News - Hindi",News Nation
 https://jmp2.uk/stvp-IN46000210J
-#EXTINF:-1 tvg-chno="5" tvg-id="ABPNews.in" tvg-name="ABP News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ABP%20NWS.png" group-title="India News - Hindi",ABP News
+#EXTINF:-1 tvg-chno="5" tvg-id="IN4600012BD" tvg-name="ABP News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20261102T074416SQUARE.png" group-title="India News - Hindi",ABP News
 https://jmp2.uk/stvp-IN4600012BD
-#EXTINF:-1 tvg-chno="6" tvg-id="TimesNowNavbharat.in" tvg-name="Times Now Navbharat" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NAV-BHARAT-HD-Transpatrnt.png" group-title="India News - Hindi",Times Now Navbharat
+#EXTINF:-1 tvg-chno="6" tvg-id="IN400059ZR" tvg-name="Times Now Navbharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400059ZR_20260901T055437SQUARE.png" group-title="India News - Hindi",Times Now Navbharat
 https://jmp2.uk/stvp-IN400059ZR
-#EXTINF:-1 tvg-chno="7" tvg-id="NDTVIndia.in" tvg-name="NDTV India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="India News - Hindi",NDTV India
+#EXTINF:-1 tvg-chno="7" tvg-id="INBC2800002WJ" tvg-name="NDTV India" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800002WJ_20260715T005755SQUARE.png" group-title="India News - Hindi",NDTV India
 https://jmp2.uk/stvp-INBC2800002WJ
-#EXTINF:-1 tvg-chno="8" tvg-id="IndiaToday.in" tvg-name="India Today" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/INDIA-TODAY_transparent.png" group-title="India News - English",India Today
+#EXTINF:-1 tvg-chno="8" tvg-id="INBC2800005X4" tvg-name="India Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800005X4_20260623T015135SQUARE.png" group-title="India News - English",India Today
 https://jmp2.uk/stvp-INBC2800005X4
-#EXTINF:-1 tvg-chno="9" tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="India News - English",NDTV 24x7
+#EXTINF:-1 tvg-chno="9" tvg-id="INBC2800001D8" tvg-name="NDTV 24x7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20260908T033558SQUARE.png" group-title="India News - English",NDTV 24x7
 https://jmp2.uk/stvp-INBC2800001D8
-#EXTINF:-1 tvg-chno="10" tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/CNN%20News18.png" group-title="India News - English",CNN-News18
+#EXTINF:-1 tvg-chno="10" tvg-id="INBD1300009QZ" tvg-name="CNN-News18" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300009QZ_20260915T042122SQUARE.png" group-title="India News - English",CNN-News18
 https://jmp2.uk/stvp-INBD1300009QZ
 #EXTINF:-1 tvg-chno="11" tvg-id="TimesNow.in" tvg-name="Times Now" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/TIMES%20NOW.png" group-title="India News - English",Times Now (720p)
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="ZeeNews.in" tvg-name="Zee News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png" group-title="India News - Hindi",Zee News
+#EXTINF:-1 tvg-chno="12" tvg-id="INBC4300010Z6" tvg-name="Zee News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300010Z6_20260915T042211SQUARE.png" group-title="India News - Hindi",Zee News
 https://jmp2.uk/stvp-INBC4300010Z6
-#EXTINF:-1 tvg-chno="13" tvg-id="IndiaTV.in" tvg-name="India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_TV.png" group-title="India News - Hindi",India TV
+#EXTINF:-1 tvg-chno="13" tvg-id="IN4000001LP" tvg-name="India TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000001LP_20260805T004004SQUARE.png" group-title="India News - Hindi",India TV
 https://jmp2.uk/stvp-IN4000001LP
-#EXTINF:-1 tvg-chno="14" tvg-id="IndiaTVSpeedNews.in" tvg-name="India TV Speed News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Speed_News.png" group-title="India News - Hindi",India TV Speed News
+#EXTINF:-1 tvg-chno="14" tvg-id="IN4000002JA" tvg-name="India TV Speed News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000002JA_20260623T015122SQUARE.png" group-title="India News - Hindi",India TV Speed News
 https://jmp2.uk/stvp-IN4000002JA
-#EXTINF:-1 tvg-chno="15" tvg-id="IndiaTVAapKiAdalat.in" tvg-name="India TV Aap Ki Adalat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aap_Ki_Adalat.png" group-title="India News - Hindi",India TV Aap Ki Adalat
+#EXTINF:-1 tvg-chno="15" tvg-id="IN2600020H9" tvg-name="India TV Aap Ki Adalat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600020H9_20260623T015108SQUARE.png" group-title="India News - Hindi",India TV Aap Ki Adalat
 https://jmp2.uk/stvp-IN2600020H9
-#EXTINF:-1 tvg-chno="16" tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/R.Bharat.png" group-title="India News - Hindi",Republic Bharat
+#EXTINF:-1 tvg-chno="16" tvg-id="INBA490002119" tvg-name="Republic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20261110T043322SQUARE.png" group-title="India News - Hindi",Republic Bharat
 https://jmp2.uk/stvp-INBA490002119
-#EXTINF:-1 tvg-chno="17" tvg-id="RepublicTV.in" tvg-name="Republic TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/REPUBLIC%20TV.png" group-title="India News - English",Republic TV
+#EXTINF:-1 tvg-chno="17" tvg-id="INBA4900020A5" tvg-name="Republic TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20260623T013003SQUARE.png" group-title="India News - English",Republic TV
 https://jmp2.uk/stvp-INBA4900020A5
 #EXTINF:-1 tvg-chno="18" tvg-id="DDNews.in" tvg-name="DD News HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png" group-title="India News - English",DD News HD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
@@ -43,36 +43,36 @@ https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/outpu
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="ZeeUttarPradeshUttarakhand.in" tvg-name="Zee Uttar Pradesh / Uttarakhand" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/LOGO_HD_image.png" group-title="UP-UK News",Zee Uttar Pradesh / Uttarakhand (720p)
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/BBC-logo_2000_X_1125_Transparent.png" group-title="World News",BBC News (720p)
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="AlJazeera.qa" tvg-name="Al Jazeera English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="World News",Al Jazeera English (1080p)
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="DW.de" tvg-name="DW English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dw.png" group-title="World News",DW English (1080p)
-https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="France24.fr" tvg-name="France 24 English" tvg-logo="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540" group-title="World News",France 24 English (1080p)
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="US4000033L" tvg-name="BBC News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20260421T133849SQUARE.png" group-title="World News",BBC News (1080p)
+https://jmp2.uk/stvp-US4000033L
+#EXTINF:-1 tvg-chno="23" tvg-id="GB2300005ML" tvg-name="Al Jazeera English" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300005ML_20251118T015422SQUARE.png" group-title="World News",Al Jazeera English (1080p)
+https://jmp2.uk/stvp-GB2300005ML
+#EXTINF:-1 tvg-chno="24" tvg-id="GB1300001RX" tvg-name="DW English" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1300001RX_20250902T003744SQUARE.png" group-title="World News",DW English (1080p)
+https://jmp2.uk/stvp-GB1300001RX
+#EXTINF:-1 tvg-chno="25" tvg-id="GBBD1100002L5" tvg-name="France 24 English" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20250107T030646SQUARE.png" group-title="World News",France 24 English (1080p)
+https://jmp2.uk/stvp-GBBD1100002L5
 #EXTINF:-1 tvg-chno="26" tvg-id="NewsWorld.hk" tvg-name="NewsWorld" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011-width200-quality90.jpeg" group-title="World News",NewsWorld (1080p)
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-id="WION.in" tvg-name="WION" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/WION.png" group-title="World News",WION
+#EXTINF:-1 tvg-chno="27" tvg-id="INBD4000058T" tvg-name="WION" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000058T_20260623T013446SQUARE.png" group-title="World News",WION
 https://jmp2.uk/stvp-INBD4000058T
 #EXTINF:-1 tvg-chno="28" tvg-id="Firstpost.in" tvg-name="Firstpost" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Firstpost.png" group-title="World News",Firstpost (720p)
 https://n18syndication.akamaized.net/bpk-tv/Firstpost_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="DDIndia.in" tvg-name="DD India" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20India.png" group-title="World News",DD India (1080p)
 https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Kids",Mr Bean Animated
+#EXTINF:-1 tvg-chno="30" tvg-id="IN3000010V5" tvg-name="Mr Bean Animated" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000010V5_20261006T042406SQUARE.png" group-title="Kids",Mr Bean Animated
 https://jmp2.uk/stvp-IN3000010V5
-#EXTINF:-1 tvg-chno="31" tvg-id="MrBeanLiveAction.uk" tvg-name="Mr Bean Live Action" tvg-logo="https://i.imgur.com/5RZ78WP.png" group-title="Kids",Mr Bean Live Action (1080p)
-https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" group-title="Nature",BBC Earth (1080p)
+#EXTINF:-1 tvg-chno="31" tvg-id="GB4000008O5" tvg-name="Mr Bean Live Action" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000008O5_20251013T054359SQUARE.png" group-title="Kids",Mr Bean Live Action (1080p)
+https://jmp2.uk/stvp-GB4000008O5
+#EXTINF:-1 tvg-chno="32" tvg-id="USBD1700001RW" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20261023T182355SQUARE.png" group-title="Nature",BBC Earth (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="" group-title="Nature",Love Nature (2160p)
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="Nature",WildEarth (1080p)
-https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-id="NatureTime.ca" tvg-name="NatureTime" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Nature",NatureTime
+#EXTINF:-1 tvg-chno="33" tvg-id="USBA3400003IP" tvg-name="Love Nature" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20260421T142045SQUARE.png" group-title="Nature",Love Nature (2160p)
+https://jmp2.uk/stvp-USBA3400003IP
+#EXTINF:-1 tvg-chno="34" tvg-id="US3800007CR" tvg-name="WildEarth" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3800007CR_20260421T141712SQUARE.png" group-title="Nature",WildEarth (1080p)
+https://jmp2.uk/stvp-US3800007CR
+#EXTINF:-1 tvg-chno="35" tvg-id="IN2100014K1" tvg-name="NatureTime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100014K1_20260623T015351SQUARE.png" group-title="Nature",NatureTime
 https://jmp2.uk/stvp-IN2100014K1
-#EXTINF:-1 tvg-chno="36" tvg-id="AdventureEarth.de" tvg-name="Adventure Earth" tvg-logo="https://i.imgur.com/94Pq9Io.png" group-title="Nature",Adventure Earth (1080p)
-https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="GBBC900015D3" tvg-name="Adventure Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900015D3_20250107T022812SQUARE.png" group-title="Nature",Adventure Earth (720p)
+https://jmp2.uk/stvp-GBBC900015D3
 #EXTINF:-1 tvg-chno="37" tvg-id="Travelxp.in" tvg-name="Travelxp 4K HDR" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Travelxp%20HD.png" group-title="Travel",Travelxp 4K HDR (2160p)
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-id="IN300000210" tvg-name="Travelxp HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300000210_20260623T013441SQUARE.png" group-title="Travel",Travelxp HD
